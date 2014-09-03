@@ -1,0 +1,35 @@
+Hacer plan de documentacion
+
+Sistema dee Testing
+
+Manejo de versones  (Fundamental)
+
+Repositorio (integracion pagina web)
+
+Revisar Base datos
+
+Sistema backup de bases de datos.
+
+Cronograma de trabajo.
+
+Ampliar Diferentes formatos.
+
+------------------
+
+India : Encuestas 
+	Cotizaciones
+	Tarjetas Social
+
+Felipe y Jeff: Cronicos
+
+Javier Felipe otro: Mamografia
+
+---------------------------
+
+1. Repositorios (Mamografia, cronicos, encuestas) Alistar Repositorios. Control de Versiones
+
+
+2. Tener control sobre plataforma de servidores (Documentacicon de servidores). (Datos Tecnicos)
+
+
+3. Sitio Web de documentacion de repositorios.
